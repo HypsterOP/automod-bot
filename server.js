@@ -1,5 +1,4 @@
 
-"$TOEKN"
 // if you need help ask in the help channel dont dm me
  const { default_prefix } = require("./config.json")
  const DisTube = require("distube")
